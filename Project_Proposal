@@ -1,0 +1,23 @@
+Development of an Automated Paper Crafting Machine  
+
+Problem Statement:  
+
+ 
+
+Rough Sketch of the Solution: 
+
+Gantry-Type Machine: The machine is equipped with a gantry system that allows precise movement of the end effector along the X, Y, and Z axes, enabling accurate handling of paper petals and placement of glue. 
+
+ 
+
+Vacuum-Fitted End Effector: The end effector is fitted with a vacuum system that can pick up individual paper petals. The vacuum is controlled to hold and release the petals as required. The machine will operate in a sequence, picking petals one by one, applying glue, and placing them onto the central paper to form a complete flower or similar structure. 
+
+Base with Vacuum Holes: The machine's base is designed with numerous tiny holes that generate a vacuum, securely holding the paper in place during the crafting process. 
+
+Glue Application Area: A designated glue area is present on the base. After picking up a paper petal, the end effector will move to the gluing area while holding the petal. The end effector then rubs the petal against the glue, moving it around within the glue area to ensure that the glue is applied evenly to the required sections of the petal. 
+
+Petal Placement and Assembly: A specific area on the base is designated for arranging the petals. After applying glue, the end effector moves to the central part of the base, where a circular cut piece of craft paper is placed. The end effector carefully places the glued petal onto the circular paper, gradually building the floral structure. 
+
+Sequential Operation: The machine will operate in a sequence, picking petals one by one, applying glue, and placing them onto the central paper to form a complete flower or similar structure. 
+
+Mechatronics Architecture:  
