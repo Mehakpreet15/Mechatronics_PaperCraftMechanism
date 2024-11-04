@@ -13,3 +13,7 @@ Merged Arduino Code
 
 The Arduino code has been prepared and merged, combining both suction and inverse kinematics functionalities.
 The merged code enables coordinated actions: picking up petals, applying glue, and assembling the flower efficiently.
+
+Final prototype image is attached to the files
+suction and inverse kinematics's videoa are attached along with their arduino  code
+Also, the combined suction and inverse kinmeatics code is attached. However, we are right now working on the inverse kinematics section more.
