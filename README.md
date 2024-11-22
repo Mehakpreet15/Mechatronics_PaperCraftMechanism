@@ -68,6 +68,8 @@ SPAC-R is a Delta robot designed to perform pick-and-place operations using a su
   -**For Rpi**
   ![image](https://github.com/user-attachments/assets/462c7e7a-abc2-4351-8163-673405f6beee)
   -**For Arduino Nano**
+  ![image](https://github.com/user-attachments/assets/960ee4d5-024a-429e-bc58-87166ccc4db8)
+
   
 
 
