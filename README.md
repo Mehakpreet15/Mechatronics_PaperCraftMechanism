@@ -65,7 +65,10 @@ SPAC-R is a Delta robot designed to perform pick-and-place operations using a su
 - **Camera**: RPi Camera Module for petal detection (optional)
 
   ### Circuit Diagram
+  -**For Rpi**
   ![image](https://github.com/user-attachments/assets/462c7e7a-abc2-4351-8163-673405f6beee)
+  -**For Arduino Nano**
+  
 
 
 ### 3D-Printed Parts
