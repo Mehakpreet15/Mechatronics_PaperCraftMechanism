@@ -25,19 +25,27 @@ SPAC-R is a Delta robot designed to perform pick-and-place operations using a su
   - Joint connectors
 
 ### 2. **Source Code**
-- **`main.cpp`**: The primary code for controlling SPAC-R's operations.
-- **Header Files (`.h`)**: Modularized code for inverse kinematics, servo control, and suction operations.
+- **`DeltaKinematics.cpp`**: The primary code for controlling SPAC-R's operations.
+- **DeltaKinematics.h (`.h`)**: Modularized code for inverse kinematics, servo control, and suction operations.
 - Designed to run on an Arduino Nano microcontroller.
+  
 
 ### 3. **Prototype Reference Images**
-- Find progress images of SPAC-R in the `Images` folder:
-  - Suction mechanism testing
-  - Delta robot assembly
-  - Final prototype
-  - Wiring diagrams
+- Find progress images of SPAC-R in the `Progress Images` folder:
+  - Progress2.jpg
+  - Prototype Image.jpeg
+  - ![image](https://github.com/user-attachments/assets/2d756417-e89e-4cf8-83a7-ecff5ec4b29a)
+
+  - Suction cup of the end effector
+  - ![image](https://github.com/user-attachments/assets/81ca00ac-1429-40cf-bb5c-52f0652061bc)
+
+  - progress3.jpg
+  - final model image
+  - ![image](https://github.com/user-attachments/assets/0038c177-b69b-48da-bd95-c52fe95eae31)
+
 
 ### 4. **Reference Videos**
-- Demonstrations of SPAC-R in action are located in the `Videos` folder:
+- Demonstrations of SPAC-R in action are located in the `reference Videos` folder:
   - Initial prototype testing
   - End effector rotation
   - Suction assembly in operation
@@ -55,6 +63,10 @@ SPAC-R is a Delta robot designed to perform pick-and-place operations using a su
   - One micro servo for end effector rotation
 - **Suction Mechanism**: Air compressor with battery for powering suction cup
 - **Camera**: RPi Camera Module for petal detection (optional)
+
+  ### Circuit Diagram
+  ![image](https://github.com/user-attachments/assets/462c7e7a-abc2-4351-8163-673405f6beee)
+
 
 ### 3D-Printed Parts
 - STL files are included for all major structural components.
@@ -93,12 +105,11 @@ SPAC-R is a Delta robot designed to perform pick-and-place operations using a su
 
 ---
 
-## Images and videos
+## List Of Components
+![image](https://github.com/user-attachments/assets/5058327a-3945-499f-8821-78734848723b)
 
-- **Images**: Refer to the `Images` folder for visuals of the build process and components.
-- **Videos**: View the assembly and operation of SPAC-R in the `Videos` folder.
-
----
 ## Refernces
+- (https://www.thingiverse.com/thing:3465651)
+- https://github.com/tinkersprojects/Delta-Kinematics-Library
 - 
 
