@@ -110,6 +110,6 @@ SPAC-R is a Delta robot designed to perform pick-and-place operations using a su
 
 ## Refernces
 - (https://www.thingiverse.com/thing:3465651)
-- https://github.com/tinkersprojects/Delta-Kinematics-Library
-- 
+- https://hypertriangle.com/~alex/delta-robot-tutorial/
+ 
 
